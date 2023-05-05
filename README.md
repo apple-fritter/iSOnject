@@ -1,5 +1,5 @@
 # iSOnject
-This bash script performs operations related to modifying and repackaging an ISO image file.
+This bash script performs operations related to modifying and repackaging an ISO image file. In its current state, it requires no user interaction beyond paths for input and output ISOs.
 
 ## Step-by-step breakdown of the script:
 
