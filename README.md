@@ -3,7 +3,7 @@ This bash script performs operations related to modifying and repackaging an ISO
 
 1. `#!/bin/bash`: This line specifies that the script should be run using the Bash shell.
 
-2. `chrootDir="./chrootDir"`: This line sets the variable `chrootDir` to the path "./chrootDir", which will be used as the temporary directory for the chroot environment.
+2. `chrootDir="./chrootDir"`: This line sets the variable `chrootDir` to the path `./chrootDir`, which will be used as the temporary directory for the chroot environment.
 
 3. Prompt user for input and output paths.
 
@@ -11,7 +11,7 @@ This bash script performs operations related to modifying and repackaging an ISO
 
 5. Create temporary directories for mount and chroot.
 
-6. Mount the input ISO file to the "isomount" directory.
+6. Mount the input ISO file to the `isomount` directory.
 
 7. Extract the ISO contents to the chroot directory using `unsquashfs`.
 
