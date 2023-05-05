@@ -1,5 +1,5 @@
 # iSOnject
-This bash script performs operations related to modifying and repackaging an ISO image file. In its current state, it requires no user interaction beyond paths for input and output ISOs, but lacks any functionality beyond what's described below, absent user customization.
+This bash script performs operations related to modifying and repackaging an ISO image file. Absent user customization, iSOnject requires no user interaction beyond the prompts for paths to the input and output ISOs.
 
 Inspired by [yawp](https://github.com/apple-fritter/yawp) and [yawp_2](https://github.com/apple-fritter/yawp_2).
 
