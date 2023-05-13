@@ -14,7 +14,7 @@ Inspired by [yawp](https://github.com/apple-fritter/yawp) and [yawp_2](https://g
 │
 ├─ Check if output path is specified
 │  │
-│  ├─ Set default output path
+│  └─ Set default output path
 │
 ├─ Create temporary directories for mount and chroot
 │
